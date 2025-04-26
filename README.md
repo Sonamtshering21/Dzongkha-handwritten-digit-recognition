@@ -1,4 +1,4 @@
-# Dzongkha Digit Classifier
+# handwritten Dzongkha digit detection using ML
 
 This project uses a **ResNet18** model to classify handwritten digits (0-9) using the Dzongkha digit dataset.  
 The model uses **data augmentation** and **transfer learning techniques** to improve generalization and performance.
